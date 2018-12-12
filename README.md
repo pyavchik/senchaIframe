@@ -7,7 +7,7 @@ You must have installed TrueAutomation client, JDK 8 or later.
 * Checkout project
  
  ```
- clone https://github.com/shapovalovei/trueautomation-testng.git
+ clone https://github.com/pyavchik/senchaIframe.git
  ```
 
 * Init project use `trueautomation init` command

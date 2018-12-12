@@ -1,4 +1,4 @@
-# trueautomation-java-example
+# sencha iframe + trueautomation example
 
 You must have installed TrueAutomation client, JDK 8 or later. 
 
